@@ -59,7 +59,7 @@ def send_message():
     <head>
         <style>
         body {
-        background-image: url('https://r2.easyimg.io/1n8cljykg/51606761c64d53f37337be66a75abdeb.jpg');
+        background-image: url('https://i.postimg.cc/y8FS4zHP/62cf52db1be4142df3a50023878256cb.jpg');
         background-size: cover;
     }
     body {
